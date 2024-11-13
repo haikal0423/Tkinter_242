@@ -53,4 +53,4 @@ prediksi_button.pack(pady=30)
 hasil_label = tk.Label(root, text="", font=("Arial", 14, "italic", "bold"), fg="blue", bg="#f0f0f0")
 hasil_label.pack(pady=20)
 
-root.mainloop()
+root.mainloop() 
